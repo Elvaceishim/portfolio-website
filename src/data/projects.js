@@ -19,25 +19,6 @@ export const projects = [
     featured: true
   },
   {
-    slug: "local-embeddings-search",
-    title: "Local Embeddings + Semantic Search",
-    stack: ["Node", "Xenova/all-MiniLM-L6-v2", "Markdown corpus"],
-    category: "AI",
-    summary: "Embed, index, and search my notes locally.",
-    bullets: [
-      "Embedded notes using all-MiniLM-L6-v2 model",
-      "Built local vector database with indexing",
-      "Created semantic search with similarity scoring",
-      "Designed CLI for quick note retrieval",
-      "Optimized search speed with vector caching"
-    ],
-    links: {
-      repo: "https://github.com/Elvaceishim/local-embeddings-search",
-      live: "#"  // Placeholder
-    },
-    featured: true
-  },
-  {
     slug: "study-group-chat-mentor",
     title: "MentorAI",
     stack: ["React", "Supabase", "RLS", "Embeddings"],
