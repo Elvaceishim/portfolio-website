@@ -19,6 +19,23 @@ export const projects = [
     featured: true
   },
   {
+    slug: "Lagos-GAN-project",
+    title: "StyleGAN2 + CycleGAN",
+    stack: ["Python", "Hugging Face"],
+    category: "Machine Learning",
+    summary: "Experimental ML project showcasing how GANs can power African-centered synthetic creativity.",
+    bullets: [
+      "Built two GAN pipelines (StyleGAN2-ADA and CycleGAN/CUT)",
+      "Provided a live demo (Gradio) for public use",
+      "Delivered a working demo and an article narrating my experience and what I've learnt"
+    ],
+    links: {
+      repo: "https://github.com/Elvaceishim/Lagos-GAN-clean",
+      live: "#"  // Placeholder
+    },
+    featured: true
+  },
+  {
     slug: "study-group-chat-mentor",
     title: "MentorAI",
     stack: ["React", "Supabase", "RLS", "Embeddings"],

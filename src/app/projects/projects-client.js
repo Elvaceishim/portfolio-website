@@ -20,7 +20,7 @@ export default function ProjectsClient() {
           >
             <h1 className="text-4xl md:text-5xl font-bold mb-4">All Projects</h1>
             <p className="text-muted-foreground max-w-2xl mx-auto">
-              A collection of AI tools and web applications that showcase my technical skills.
+              A collection of ML models and AI Tools that showcase my technical skills.
             </p>
           </motion.div>
 

@@ -2,10 +2,10 @@ import ProjectsClient from "./projects-client";
 
 export const metadata = {
   title: "Projects - Elvis Anselm",
-  description: "AI tools, web applications, and technical projects by Elvis Anselm. Featuring RAG systems, embeddings, and practical AI implementations.",
+  description: "ML models, AI tools, and technical projects by Elvis Anselm.",
   openGraph: {
     title: "Projects - Elvis Anselm",
-    description: "AI tools, web applications, and technical projects by Elvis Anselm. Featuring RAG systems, embeddings, and practical AI implementations.",
+    description: "ML models, AI tools, and technical projects by Elvis Anselm.",
   },
 };
 
