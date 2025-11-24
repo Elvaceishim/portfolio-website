@@ -1,5 +1,22 @@
 export const projects = [
   {
+    slug: "Lagos-GAN-project",
+    title: "Lagos-GAN-project",
+    stack: ["Python", "Hugging Face"],
+    category: "Machine Learning",
+    summary: "Experimental ML project showcasing how GANs can power African-centered synthetic creativity.",
+    bullets: [
+      "Built two GAN pipelines (StyleGAN2-ADA and CycleGAN/CUT)",
+      "Provided a live demo (Gradio) for public use",
+      "Delivered a working demo and an article narrating my experience and what I've learnt"
+    ],
+    links: {
+      repo: "https://github.com/Elvaceishim/Lagos-GAN-clean",
+      live: "#"  // Placeholder
+    },
+    featured: true
+  },
+  {
     slug: "ai-video-summary",
     title: "AI Video Summary",
     stack: ["Netlify Functions", "Whisper.cpp", "AssemblyAI", "OpenRouter", "React", "Tailwind"],
@@ -19,18 +36,18 @@ export const projects = [
     featured: true
   },
   {
-    slug: "Lagos-GAN-project",
-    title: "StyleGAN2 + CycleGAN",
+    slug: "Lagos Rent Predictor",
+    title: "Lagos Rent Predictor",
     stack: ["Python", "Hugging Face"],
     category: "Machine Learning",
-    summary: "Experimental ML project showcasing how GANs can power African-centered synthetic creativity.",
+    summary: "Model that predicts the rental prices in the Lagos housing scene.",
     bullets: [
-      "Built two GAN pipelines (StyleGAN2-ADA and CycleGAN/CUT)",
-      "Provided a live demo (Gradio) for public use",
+      "Built a Random Forest Regressor model to train the rental price predictions",
+      "Built a Gradio UI for public use",
       "Delivered a working demo and an article narrating my experience and what I've learnt"
     ],
     links: {
-      repo: "https://github.com/Elvaceishim/Lagos-GAN-clean",
+      repo: "https://github.com/Elvaceishim/lagos_rent_predictor",
       live: "#"  // Placeholder
     },
     featured: true
@@ -50,6 +67,23 @@ export const projects = [
     ],
     links: {
       repo: "https://github.com/Elvaceishim/MentorAI",
+      live: "#"  // Placeholder
+    },
+    featured: true
+  },
+  {
+    slug: "Rain Predictor",
+    title: "Rain Predictor",
+    stack: ["Python", "Hugging Face"],
+    category: "Machine Learning",
+    summary: "Model that predicts rainfall in a specific cities around Africa.",
+    bullets: [
+      "Built a Random Forest Regressor model to train the rainfall predictions",
+      "Built a Gradio UI for public use",
+      "Delivered a working demo and an article narrating my experience and what I've learnt"
+    ],
+    links: {
+      repo: "https://github.com/Elvaceishim/weather_data_fetcher",
       live: "#"  // Placeholder
     },
     featured: true
