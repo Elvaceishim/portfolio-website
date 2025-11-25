@@ -20,6 +20,18 @@ export default function ContactPage() {
             github.com/Elvaceishim
           </a>
         </div>
+        <div>
+          <h3 className="text-xl font-semibold">X</h3>
+          <a href="https://x.com/Tellaboutcrypt" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
+            x.com/Tellaboutcrypt
+          </a>
+        </div>
+        <div>
+          <h3 className="text-xl font-semibold">LinkedIn</h3>
+          <a href="https://www.linkedin.com/in/elvisanselm/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">
+            linkedin.com/in/elvisanselm
+          </a>
+        </div>
       </div>
     </div>
   );
