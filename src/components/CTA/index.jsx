@@ -19,10 +19,10 @@ export default function CTA() {
             Let's Build Something Great
           </h2>
           <p className="text-lg text-muted-foreground mb-2">
-            Open to Junior AI Engineer and Prompt Engineer roles.
+            Open to AI and Machine Learning roles.
           </p>
           <p className="text-muted-foreground mb-8 max-w-2xl mx-auto">
-            I'm looking for opportunities to apply my AI skills and writing background 
+            I'm looking for opportunities to apply my AI/ML skills and writing background 
             to create meaningful tools and experiences.
           </p>
           

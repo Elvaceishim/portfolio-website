@@ -25,7 +25,7 @@ const Hero = () => {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="text-2xl md:text-3xl font-medium text-muted-foreground mb-6"
           >
-            Junior AI Engineer & Prompt Specialist
+            AI & ML Enthusiast
           </motion.h2>
           
           <motion.p
@@ -67,7 +67,7 @@ const Hero = () => {
           className="mt-16 p-6 rounded-2xl bg-card border border-border"
         >
           <p className="text-sm text-muted-foreground font-medium">
-            I blend clean prompts, practical JS/TS, and RAG basics to ship useful AI features without heavy infra.
+            I build models that provide real-world solutions, and build AI tools with clean prompts and RAG basics that ship useful AI features without heavy infra.
           </p>
         </motion.div>
       </div>

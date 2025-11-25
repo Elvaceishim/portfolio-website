@@ -26,7 +26,7 @@ const SimpleHomePage = () => {
                 Elvis Anselm
               </h1>
               <p className="text-xl text-gray-600 dark:text-gray-300">
-                Junior AI Engineer & Prompt Specialist
+                AI & ML Enthusiast
               </p>
             </div>
           </div>

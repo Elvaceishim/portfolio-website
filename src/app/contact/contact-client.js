@@ -36,8 +36,8 @@ export default function ContactClient() {
           >
             <h1 className="text-4xl md:text-5xl font-bold mb-4">Get In Touch</h1>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              Open to Junior AI Engineer and Prompt Engineer roles. 
-              Let's discuss how I can help your team build better AI tools.
+              Open to AI and Machine Learning roles. 
+              I'd be a great resource for your team.
             </p>
           </motion.div>
 
