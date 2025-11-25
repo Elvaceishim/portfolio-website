@@ -5,15 +5,21 @@ import Navbar from "@/components/Navbar";
 import { ExternalLink, Calendar } from "lucide-react";
 
 const writingPieces = [
-  // Add your real articles here using this format:
-  // {
-  //   title: "Article Title",
-  //   description: "Brief description of the article content",
-  //   category: "Technical" | "Career" | etc,
-  //   date: "2024",
-  //   url: "https://actual-url-here.com",
-  //   tags: ["Tag1", "Tag2", "Tag3"]
-  // }
+  {
+    title: "Why Chain-of-Thought Prompts Are the Key to Smarter AI Agents",
+    description:
+      "Reasoning models are trained to plan, reason, and correct themselves during the thinking phase. This is called Chain of Thought prompting. This article looks at this prompting technique and how it is key to shaping smarter AI Agents.",
+    category: "AI, LLM",
+    date: "2025",
+    url: "https://medium.com/@theelvace/why-chain-of-thought-prompts-are-the-key-to-smarter-ai-agents-3322506b8617",
+    tags: [
+      "Chain Of Thought",
+      "Tree Of Thought",
+      "Prompt Engineering",
+      "LLM",
+      "AI"
+    ]
+  }
 ];
 
 export default function WritingClient() {
@@ -31,7 +37,7 @@ export default function WritingClient() {
           >
             <h1 className="text-4xl md:text-5xl font-bold mb-4">Writing</h1>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              Technical guides, career insights, and thoughts on building practical AI tools.
+              Technical guides, career insights, and thoughts on building ML models and practical AI tools.
             </p>
           </motion.div>
 
