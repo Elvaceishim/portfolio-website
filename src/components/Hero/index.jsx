@@ -34,7 +34,7 @@ const Hero = () => {
             transition={{ duration: 0.6, delay: 0.4 }}
             className="text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto mb-8 leading-relaxed"
           >
-            I build small, fast AI tools. I ship working demos. I write clear prompts and clearer code.
+            I build real-world AI/ML tools. I ship working demos. I write clear prompts and clearer code.
           </motion.p>
           
           <motion.div

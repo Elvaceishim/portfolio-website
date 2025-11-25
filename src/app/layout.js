@@ -26,12 +26,12 @@ const crimsonText = Crimson_Text({
 
 export const metadata = {
   title: "Elvis Anselm - Junior AI Engineer & Prompt Specialist",
-  description: "I build small, fast AI tools. I ship working demos. I write clear prompts and clearer code. Junior AI Engineer specializing in embeddings, RAG, and practical AI applications.",
+  description: "I build real-world AI/ML tools. I ship working demos. I write clear prompts and clearer code. Junior AI Engineer specializing in embeddings, RAG, and practical AI applications.",
   keywords: "AI Engineer, Prompt Engineering, RAG, Embeddings, React, Next.js, AI Tools",
   authors: [{ name: "Elvis Anselm" }],
   openGraph: {
     title: "Elvis Anselm - Junior AI Engineer & Prompt Specialist",
-    description: "I build small, fast AI tools. I ship working demos. I write clear prompts and clearer code.",
+    description: "I build real-world AI/ML tools. I ship working demos. I write clear prompts and clearer code.",
     url: "https://elvis-anselm.com",
     siteName: "Elvis Anselm Portfolio",
     locale: "en_US",
@@ -40,7 +40,7 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Elvis Anselm - Junior AI Engineer & Prompt Specialist",
-    description: "I build small, fast AI tools. I ship working demos. I write clear prompts and clearer code.",
+    description: "I build real-world AI/ML tools. I ship working demos. I write clear prompts and clearer code.",
   },
 };
 
