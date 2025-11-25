@@ -19,7 +19,7 @@ export default function AboutClient() {
           >
             <h1 className="text-4xl md:text-5xl font-bold mb-4">About Me</h1>
             <p className="text-xl text-muted-foreground">
-              From writing to AI engineering
+              From writing to AI/ML engineering
             </p>
           </motion.div>
 
@@ -36,10 +36,10 @@ export default function AboutClient() {
                   I started my career as a professional writer, developing a keen eye for clear communication and user-focused content. When I discovered AI's potential to transform how we work, I knew I had to be part of that revolution.
                 </p>
                 <p className="text-muted-foreground leading-relaxed mb-4">
-                  My transition into AI engineering has been driven by a passion for building practical tools that solve real problems, leveraging a technology that is changing the world as we know it. I like rapid prototyping and shipping functional solutions quickly as I believe the best way to validate an idea is to get it into users' hands.
+                  My transition into the AI and Machine Learning space has been driven by a passion for building practical tools that solve real problems, leveraging a technology that is changing the world as we know it. I like rapid prototyping and shipping functional solutions quickly as I believe the best way to validate an idea is to get it into users' hands.
                 </p>
                 <p className="text-muted-foreground leading-relaxed">
-                  What sets me apart is my unique combination of technical skills and communication expertise. I can build the AI systems <em>and</em> explain them clearly to stakeholders. I thrive in fast-paced environments where I can make immediate impact.
+                  What sets me apart is my unique combination of technical skills and communication expertise. I can build the ML models and AI systems <em>and</em> explain them clearly to stakeholders. I thrive in fast-paced environments where I can make immediate impact.
                 </p>
               </div>
 
