@@ -24,11 +24,20 @@ const writingPieces = [
 		title: "My Introduction to Generative Adversarial Networks (GANs)",
 		description:
 			"In this piece, I discuss GANs at their core level and some of the important techniques and concepts. I also do a walkthrough/explainer on the project I took on and the thinking that guided that.",
-		category: "AI",
+		category: "AI, Machine Learning",
 		date: "2025",
 		url: "https://medium.com/@theelvace/my-introduction-to-generative-adversarial-networks-gans-90f63ebe88f0",
 		tags: ["Gans", "Machine Learning", "AI", "Generator"],
 	},
+	{
+		title: "Lessons Learned Building a Lagos Rent Predictor",
+		description:
+			"This article talks about a tool that answers a simple question — “What’s a reasonable annual rent for my ideal apartment scenario?” But behind it sits numerous features that affect how real estate might be priced in Lagos Nigeria, and a model that runs both locally and on Hugging Face.",
+		category: "Machine Learning",
+		date: "2025",
+		url: "https://medium.com/@theelvace/lessons-learned-building-a-lagos-rent-predictor-01168bf54327",
+		tags: ["Machine Learning", "Linear Regression", "Data Science", "Random Forest", "Hugging Face"],
+	}
 ];
 
 export default function WritingClient() {
