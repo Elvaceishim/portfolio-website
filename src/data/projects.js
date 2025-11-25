@@ -76,11 +76,11 @@ export const projects = [
     title: "Rain Predictor",
     stack: ["Python", "Hugging Face"],
     category: "Machine Learning",
-    summary: "Model that predicts rainfall in a specific cities around Africa.",
+    summary: "Model that fetches daily weeather data (rain) for Lagos and/or other specific cities around Africa using Open-Meteo API and automating the full workflow via Bash + Makefile",
     bullets: [
-      "Built a Random Forest Regressor model to train the rainfall predictions",
-      "Built a Gradio UI for public use",
-      "Delivered a working demo and an article narrating my experience and what I've learnt"
+      "This project demonstrates a clean, reproducible workflow for data automation — the same principles used in ML and DevOps pipelines.",
+      "Predict whether it will rain in the next 6 hours from hourly observations.",
+      "Built a Gradio UI for public use."
     ],
     links: {
       repo: "https://github.com/Elvaceishim/weather_data_fetcher",
